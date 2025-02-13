@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="45faa9d1-5c8f-4511-83df-0196ef6880e7" name="Changes" comment="Adding scroll function for ColumnConfig" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=PhysicalDevice, isTemplate=false, identifier=serial=ZY22FCMLJH)]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="layoutResourceFile_vertical" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="$USER_HOME$/Desktop/ClearPricing/ClearPricingKS" />
+    <option name="KEY_ALIAS" value="keyCP" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;comfortabletriphazard&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/comfortabletriphazard/ClearPricingVersion2.git&quot;,
+    &quot;accountId&quot;: &quot;8ade5137-eafe-405d-b918-86247fc58869&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2fL6zNtJJ2M1OBRA1q62oJdsg7f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Android App.app.executor": "Run",
+    "ApkExportedModule": "ClearPricingRoomDb.app",
+    "BundleExportedModule": "ClearPricingRoomDb.app",
+    "DEBUGGABLE_DEVICE": "Pixel_6_Pro_API_Tiramisu [emulator-5554]",
+    "DEBUGGABLE_PROCESS": "com.threetrees.clearpricingroomdb",
+    "DEBUGGER_ID": "Auto",
+    "ExportApk.ApkPathForClearPricingRoomDb.app": "/Users/michaellaverty/Documents/GitHub/ClearPricingRoomDb/app",
+    "ExportBundle.BundlePathForClearPricingRoomDb.app": "/Users/michaellaverty/Documents/GitHub/ClearPricingRoomDb/app",
+    "PROJECT_TRUSTED_KEY": "true",
+    "ResourceManagerPrefKey.ResourceType": "MIPMAP",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SHOW_ALL_PROCESSES": "false",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "ScreenRecorder.SavePath": "/Users/michaellaverty/Desktop/ClearPricing",
+    "ScreenshotViewer.SavePath": "/Users/michaellaverty/Desktop/ClearPricing",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "com.developerphil.adbidea.selecteddevices": "ZY22FCMLJH",
+    "com.google.services.firebase.aqiPopupShown": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "/Users/michaellaverty/Documents/GitHub/ClearPricingRoomDb/app/src/androidTest/java/com/threetrees/clearpricingroomdb",
+    "last_opened_file_path": "/Users/michaellaverty/Documents/GitHub/ClearPricingRoomDb/app/src/main/res/values/strings-b+ie",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.language.Kotlin"
+  },
+  "keyToStringList": {
+    "ExportApk.BuildVariants": [
+      "release"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/values/strings-b+ie" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/values" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/values-b+ae" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/values-b+es" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/values" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.threetrees.clearpricingroomdb.column" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.threetrees.clearpricingroomdb.column" />
+      <recent name="com.threetrees.clearpricingroomdb.attributes" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.threetrees.clearpricingroomdb.attributes.ui" />
+      <recent name="com.threetrees.clearpricingroomdb.output" />
+      <recent name="com.threetrees.clearpricingroomdb.attributes" />
+      <recent name="com.threetrees.clearpricingroomdb.column" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="ClearPricingRoomDb.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="RESTORE_ENABLED" value="false" />
+      <option name="RESTORE_FILE" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ColumnConfigTest$ColumnConfigTest" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
+      <module name="ClearPricingRoomDb.app.androidTest" />
+      <option name="TESTING_TYPE" value="2" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="com.threetrees.clearpricingroomdb.column.ColumnConfigTest$ColumnConfigTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_NAME_REGEX" value="" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="RETENTION_ENABLED" value="No" />
+      <option name="RETENTION_MAX_SNAPSHOTS" value="2" />
+      <option name="RETENTION_COMPRESS_SNAPSHOTS" value="false" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testTextFieldColumn() (1)" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" nameIsGenerated="true">
+      <module name="ClearPricingRoomDb.app.androidTest" />
+      <option name="TESTING_TYPE" value="3" />
+      <option name="METHOD_NAME" value="testTextFieldColumn" />
+      <option name="CLASS_NAME" value="ColumnConfigTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_NAME_REGEX" value="" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="RETENTION_ENABLED" value="No" />
+      <option name="RETENTION_MAX_SNAPSHOTS" value="2" />
+      <option name="RETENTION_COMPRESS_SNAPSHOTS" value="false" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testTextFieldColumn()" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
+      <module name="ClearPricingRoomDb.app.androidTest" />
+      <option name="TESTING_TYPE" value="3" />
+      <option name="METHOD_NAME" value="testTextFieldColumn" />
+      <option name="CLASS_NAME" value="com.threetrees.clearpricingroomdb.column.ColumnConfigTest$ColumnConfigTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_NAME_REGEX" value="" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="RETENTION_ENABLED" value="No" />
+      <option name="RETENTION_MAX_SNAPSHOTS" value="2" />
+      <option name="RETENTION_COMPRESS_SNAPSHOTS" value="false" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android Instrumented Tests.testTextFieldColumn()" />
+        <item itemvalue="Android Instrumented Tests.ColumnConfigTest$ColumnConfigTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45faa9d1-5c8f-4511-83df-0196ef6880e7" name="Changes" comment="" />
+      <created>1713568272699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713568272699</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Rearch to set up multiple languages continued">
+      <option name="closed" value="true" />
+      <created>1727905973520</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1727905973521</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Select language option available">
+      <option name="closed" value="true" />
+      <created>1727983135075</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1727983135075</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Adding Strings.xml for selection of languages">
+      <option name="closed" value="true" />
+      <created>1727984753510</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1727984753510</updated>
+    </task>
+    <task id="LOCAL-00061" summary="You can now select a language which changes it for the entire app">
+      <option name="closed" value="true" />
+      <created>1727985950659</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1727985950659</updated>
+    </task>
+    <task id="LOCAL-00062" summary="You can now select a language which changes it for the entire app">
+      <option name="closed" value="true" />
+      <created>1727988134606</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1727988134606</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Toast now appears in English">
+      <option name="closed" value="true" />
+      <created>1728333535827</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1728333535827</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Checking selection of languages and finalising production languages for this version">
+      <option name="closed" value="true" />
+      <created>1728334172393</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1728334172393</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Refactoring">
+      <option name="closed" value="true" />
+      <created>1728334548645</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1728334548645</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Improving keyboard dismissal">
+      <option name="closed" value="true" />
+      <created>1728336101547</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1728336101547</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Refactoring">
+      <option name="closed" value="true" />
+      <created>1728337309898</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1728337309898</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Deleting unsupported languages">
+      <option name="closed" value="true" />
+      <created>1728337550529</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1728337550529</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Deleting unsupported languages and fixing toast strings">
+      <option name="closed" value="true" />
+      <created>1728393988514</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1728393988514</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Commenting out bug for now">
+      <option name="closed" value="true" />
+      <created>1728395292956</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1728395292956</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Updating version code and name">
+      <option name="closed" value="true" />
+      <created>1728395969611</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1728395969611</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Updating tab text colours for better contrast">
+      <option name="closed" value="true" />
+      <created>1728555747873</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1728555747874</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Fixing no values entered in textfields error">
+      <option name="closed" value="true" />
+      <created>1729028491405</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1729028491405</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Providing new toast error message when there are missing fields in a column and making font improvements for language select">
+      <option name="closed" value="true" />
+      <created>1729032054354</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1729032054354</updated>
+    </task>
+    <task id="LOCAL-00075" summary="Providing new toast error message when there are missing fields in a column and making font improvements for language select">
+      <option name="closed" value="true" />
+      <created>1729032469855</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1729032469855</updated>
+    </task>
+    <task id="LOCAL-00076" summary="Fixing Please fill in all fields">
+      <option name="closed" value="true" />
+      <created>1729112961371</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1729112961372</updated>
+    </task>
+    <task id="LOCAL-00077" summary="Fixing Please fill in all fields so now it actually works">
+      <option name="closed" value="true" />
+      <created>1729155048719</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1729155048719</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Fixing Please fill in all fields">
+      <option name="closed" value="true" />
+      <created>1729374327318</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1729374327320</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Fixing Please fill in all fields better!">
+      <option name="closed" value="true" />
+      <created>1729377510837</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1729377510837</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Affirming form submission">
+      <option name="closed" value="true" />
+      <created>1729621993707</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1729621993708</updated>
+    </task>
+    <task id="LOCAL-00081" summary="Creating dialog for form1 or form2 being incomplete">
+      <option name="closed" value="true" />
+      <created>1729623502606</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1729623502606</updated>
+    </task>
+    <task id="LOCAL-00082" summary="Creating dialog for form1 or form2 being incomplete - updating languages">
+      <option name="closed" value="true" />
+      <created>1729625307491</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1729625307491</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Make button labels bigger and touch points for currency bigger">
+      <option name="closed" value="true" />
+      <created>1729627118042</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1729627118042</updated>
+    </task>
+    <task id="LOCAL-00084" summary="Configuring live output">
+      <option name="closed" value="true" />
+      <created>1729627898910</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1729627898910</updated>
+    </task>
+    <task id="LOCAL-00085" summary="Making output live - scrollable">
+      <option name="closed" value="true" />
+      <created>1729628206138</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1729628206138</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Remove fontsize for top two fields in both forms to allow system text size choice">
+      <option name="closed" value="true" />
+      <created>1729628691666</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1729628691666</updated>
+    </task>
+    <task id="LOCAL-00087" summary="Updating version code">
+      <option name="closed" value="true" />
+      <created>1729629069133</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1729629069133</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Updating">
+      <option name="closed" value="true" />
+      <created>1729630721896</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1729630721896</updated>
+    </task>
+    <task id="LOCAL-00089" summary="Adding content descriptions, increasing touch points and setting display results to be scrolled to bottom as default">
+      <option name="closed" value="true" />
+      <created>1729717288337</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1729717288337</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Fixed crash for infinite scroll">
+      <option name="closed" value="true" />
+      <created>1729718763205</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1729718763205</updated>
+    </task>
+    <task id="LOCAL-00091" summary="Updating title for help dialog and adding language strings">
+      <option name="closed" value="true" />
+      <created>1729720466432</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1729720466432</updated>
+    </task>
+    <task id="LOCAL-00092" summary="Updating version code to 10">
+      <option name="closed" value="true" />
+      <created>1729720573038</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1729720573038</updated>
+    </task>
+    <task id="LOCAL-00093" summary="Trying to allow language select on Google Play install">
+      <option name="closed" value="true" />
+      <created>1729785678801</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1729785678802</updated>
+    </task>
+    <task id="LOCAL-00094" summary="Upping version code for update">
+      <option name="closed" value="true" />
+      <created>1729800016278</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1729800016279</updated>
+    </task>
+    <task id="LOCAL-00095" summary="Update colour for light and dark mode of cost per unit">
+      <option name="closed" value="true" />
+      <created>1729887952929</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1729887952929</updated>
+    </task>
+    <task id="LOCAL-00096" summary="Adding more content descriptions">
+      <option name="closed" value="true" />
+      <created>1729888302213</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1729888302213</updated>
+    </task>
+    <task id="LOCAL-00097" summary="Adding share icon to history cards">
+      <option name="closed" value="true" />
+      <created>1730113427434</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1730113427434</updated>
+    </task>
+    <task id="LOCAL-00098" summary="Updating Clear All Fields button label to reduce string length">
+      <option name="closed" value="true" />
+      <created>1730130366625</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1730130366625</updated>
+    </task>
+    <task id="LOCAL-00099" summary="Updating Clear All Fields button label to reduce string length">
+      <option name="closed" value="true" />
+      <created>1730132461169</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1730132461169</updated>
+    </task>
+    <task id="LOCAL-00100" summary="Refactoring in progress and attempt to push Google Play bottom of screen apparently touchable area off the screen">
+      <option name="closed" value="true" />
+      <created>1730217582697</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1730217582698</updated>
+    </task>
+    <task id="LOCAL-00101" summary="Updating to satisfy Google play accessibility issues">
+      <option name="closed" value="true" />
+      <created>1730276974061</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1730276974061</updated>
+    </task>
+    <task id="LOCAL-00102" summary="Formatting output">
+      <option name="closed" value="true" />
+      <created>1730365620028</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1730365620030</updated>
+    </task>
+    <task id="LOCAL-00103" summary="Adding some length restrictions to Form 1">
+      <option name="closed" value="true" />
+      <created>1730366433453</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1730366433454</updated>
+    </task>
+    <task id="LOCAL-00104" summary="Adding some length restrictions to Form 2">
+      <option name="closed" value="true" />
+      <created>1730366769527</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1730366769527</updated>
+    </task>
+    <task id="LOCAL-00105" summary="Adding first form comment">
+      <option name="closed" value="true" />
+      <created>1730366872746</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1730366872747</updated>
+    </task>
+    <task id="LOCAL-00106" summary="Adding scroll function for ColumnConfig">
+      <option name="closed" value="true" />
+      <created>1730367292034</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1730367292034</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Configuring live output" />
+    <MESSAGE value="Making output live - scrollable" />
+    <MESSAGE value="Remove fontsize for top two fields in both forms to allow system text size choice" />
+    <MESSAGE value="Updating version code" />
+    <MESSAGE value="Updating" />
+    <MESSAGE value="Adding content descriptions, increasing touch points and setting display results to be scrolled to bottom as default" />
+    <MESSAGE value="Fixed crash for infinite scroll" />
+    <MESSAGE value="Updating title for help dialog and adding language strings" />
+    <MESSAGE value="Updating version code to 10" />
+    <MESSAGE value="Trying to allow language select on Google Play install" />
+    <MESSAGE value="Adding content descriptions to display results" />
+    <MESSAGE value="Darken green for better contrast" />
+    <MESSAGE value="Upping version code for update" />
+    <MESSAGE value="Update colour for light and dark mode of cost per unit" />
+    <MESSAGE value="Adding more content descriptions" />
+    <MESSAGE value="Adding share icon to history cards" />
+    <MESSAGE value="Updating Clear All Fields button label to reduce string length" />
+    <MESSAGE value="Refactoring in progress" />
+    <MESSAGE value="Refactoring in progress and attempt to push Google Play bottom of screen apparently touchable area off the screen" />
+    <MESSAGE value="Updating to satisfy Google play accessibility issues" />
+    <MESSAGE value="Formatting output" />
+    <MESSAGE value="Adding some length restrictions to Form 1" />
+    <MESSAGE value="Adding some length restrictions to Form 2" />
+    <MESSAGE value="Adding first form comment" />
+    <MESSAGE value="Adding scroll function for ColumnConfig" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding scroll function for ColumnConfig" />
+  </component>
+</project>

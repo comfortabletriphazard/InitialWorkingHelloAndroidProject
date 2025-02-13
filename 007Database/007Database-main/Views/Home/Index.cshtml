@@ -1,0 +1,97 @@
+﻿    @{
+        ViewData["Title"] = "Home Page";
+    }
+
+    <div class="text-center">
+        <h1 class="display-4"><a asp-controller="Movies" asp-action="Index">007 Movie Database</a></h1>
+    </div>
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta name="Movies" content="width = device-width" />
+        <title>Movies</title>
+    </head>
+    <body>
+
+        <!--Alert-->
+        <div class="alert alert-warning alert-dismissible fade show" role="alert">
+            <strong> Note:</strong> Click an actor in the carousel to see our pick of their best movie!
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+
+            <!-- Indicators -->
+            <ul class="carousel-indicators">
+                <li data-target="#demo" data-slide-to="0" class="active"></li>
+                <li data-target="#demo" data-slide-to="1"></li>
+                <li data-target="#demo" data-slide-to="2"></li>
+                <li data-target="#demo" data-slide-to="3"></li>
+                <li data-target="#demo" data-slide-to="4"></li>
+                <li data-target="#demo" data-slide-to="5"></li>
+            </ul>
+
+            <!-- The slideshow -->
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <a href='https://localhost:5001/Movies/Details/2'>
+                        <img src="https://th.bing.com/th/id/R240898f8b9658fe35c09aead5269866f?rik=dvKvgML057VDkQ&riu=http%3a%2f%2fmedia4.s-nbcnews.com%2fi%2fstreams%2f2014%2fApril%2f140414%2f2D274905628209-140414-ent-brosnan-tease.jpg&ehk=BmZMm6CDstdXJ13w5sNPZG5H8zFmLMBplzeZsUZ1zQA%3d&risl=&pid=ImgRaw"
+                             alt="Pierce Brosnan"
+                             style="width:100%;height:auto;">
+                    </a>
+
+                </div>
+                <div class="carousel-item">
+                    <a href='https://localhost:5001/Movies/Details/1'>
+                        <img src="https://wallpapercave.com/wp/wp2631018.jpg"
+                             alt="Daniel Craig"
+                             style="width:100%;height:auto;">
+                    </a>
+                </div>
+                <div class="carousel-item">
+                    <a href='https://localhost:5001/Movies/Details/6'>
+                        <img src="https://specials-images.forbesimg.com/imageserve/5fa0564dc05dbb718f30600a/
+                         960x0.jpg?cropX1=0&cropX2=4500&cropY1=406&cropY2=2937"
+                             alt="Sean Connery"
+                             style="width:100%;height:auto;">
+                    </a>
+                </div>
+                <div class="carousel-item">
+                    <a href='https://localhost:5001/Movies/Details/5'>
+                        <img src="https://i.guim.co.uk/img/media/0801883820cd3087f75ebd01742352082ca62732/0_0_1704_1113/master/1704.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=e5c942d5096a9b579322203002c5476a"
+                             alt="George Lazenby"
+                             style="width:100%;height:auto;">
+                    </a>
+                </div>
+                <div class="carousel-item">
+                    <a href='https://localhost:5001/Movies/Details/4'>
+                        <img src="https://th.bing.com/th/id/R6f93cf37ead3892daa6f9308bc8f63b8?rik=EFjDP6k7Fz1Y3w&pid=ImgRaw"
+                             alt="Roger Moore"
+                             style="width:100%;height:auto;">
+                    </a>
+                </div>
+                <div class="carousel-item">
+                    <a href='https://localhost:5001/Movies/Details/3'>
+                        <img src="https://www.fiduciarywealth.gi/uploads/site/news/james.jpg"
+                             alt="Timothy Dalton"
+                             style="width:100%;height:auto;">
+                    </a>
+                </div>
+            </div>
+
+            <!-- Left and right controls -->
+            <a class="carousel-control-prev" href="#demo" data-slide="prev">
+                <span class="carousel-control-prev-icon"></span>
+            </a>
+            <a class="carousel-control-next" href="#demo" data-slide="next">
+                <span class="carousel-control-next-icon"></span>
+            </a>
+
+    </body>
+    </html>
+
+
+
+
+
+
+
+

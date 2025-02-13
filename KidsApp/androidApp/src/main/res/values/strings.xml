@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KidsApp</string>
+    <string name="square_1_text">Square 1</string>
+    <string name="square_2_text">Square 2</string>
+    <string name="square_3_text">Square 3</string>
+    <string name="square_4_text">Square 4</string>
+    <string name="activity_1_text">Activity 1</string>
+    <string name="activity_2_text">Activity 2</string>
+    <string name="activity_3_text">Activity 3</string>
+    <string name="activity_4_text">Activity 4</string>
+    <string name="money_tracker_text">Money Tracker</string>
+</resources>
