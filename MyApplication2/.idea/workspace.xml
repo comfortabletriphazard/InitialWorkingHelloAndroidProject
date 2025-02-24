@@ -4,56 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18ba0930-19c8-492f-9e2e-4a036eb95201" name="Changes" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/.idea/deploymentTargetSelector.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/.idea/migrations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/androidTest/java/com/threetrees/myapplication/ExampleInstrumentedTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/java/com/threetrees/myapplication/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/java/com/threetrees/myapplication/ui/theme/Color.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/java/com/threetrees/myapplication/ui/theme/Theme.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/java/com/threetrees/myapplication/ui/theme/Type.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/test/java/com/threetrees/myapplication/ExampleUnitTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/gradle/libs.versions.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/settings.gradle.kts" beforeDir="false" />
-    </list>
+    <list default="true" id="18ba0930-19c8-492f-9e2e-4a036eb95201" name="Changes" comment="First commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +13,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=/Users/michaellaverty/.android/avd/Pixel_4.avd)]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=/Users/michaellaverty/.android/avd/7_Inch_Tablet_API_Tiramisu.avd)]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
